@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shanhavi23
-- 👀 I’m interested in learning new languages that can help me in my studies.
-- 🌱 I’ve learnt Python, Java and R.
+- 👀 A fresher data analyst with a strong foundation in data analysis and visualization.
+- 🌱 Proficient in Python, Java, SQL, and other data analysis tools.
 - 💞️ I’m looking to collaborate on small projects as I am a beginner
 - 📫 How to reach me at shanhavi4431@gmail.com
 
