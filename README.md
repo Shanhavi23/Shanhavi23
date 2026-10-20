@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Shanhavi23
-- 👀 A fresher data analyst with a strong foundation in data analysis and visualization.
-- 🌱 Proficient in Python, Java, SQL, and other data analysis tools.
-- 💞️ I’m looking to collaborate on small projects as I am a beginner
-- 📫 How to reach me at shanhavi4431@gmail.com
+# Hi, I'm Shanhavi 👋
 
-<!---
-Shanhavi23/Shanhavi23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Aspiring AI Engineer** | GenAI & LLM practitioner at Accenture
+
+~2 years working on production GenAI systems: prompt engineering, LLM failure analysis, and defect management. Now building toward hands-on AI engineering.
+
+## 🛠️ Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+
+## 🏆 Highlights
+AWS Certified Cloud Practitioner · AWS Certified AI Practitioner · CS & Data Science background
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/shanhavi-m-kesarwani/) · [Email](shanhavi4431@gmail.com)
